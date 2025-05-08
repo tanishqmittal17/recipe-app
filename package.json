@@ -1,0 +1,20 @@
+{
+  "name": "mern-recipe-app",
+  "version": "1.0.0",
+  "description": "- [Screenshots](#screenshots)\r - [Features](#features)\r - [Prerequisites](#prerequisites)\r - [Getting Started](#getting-started)\r - [Folder Structure](#folder-structure)\r - [Technologies Used](#technologies-used)\r - [Live Demo](#live-demo)",
+  "homepage": "https://github.com/tanishqmittal17/recipe-app#readme",
+  "bugs": {
+    "url": "https://github.com/tanishqmittal17/recipe-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishqmittal17/recipe-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
